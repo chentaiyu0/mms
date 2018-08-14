@@ -1,2 +1,2 @@
 # mms
-MMS资源管理
+MMS资源管理(Git)
